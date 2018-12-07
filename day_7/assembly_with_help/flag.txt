@@ -1,0 +1,880 @@
+{'A': ['U', 'I', 'H', 'R', 'T', 'X', 'N', 'W', 'K'], 'C': ['L', 'B', 'M', 'H'], 'B': [], 'E': ['C', 'R', 'N', 'J', 'Y', 'X', 'V', 'M', 'F', 'I', 'D'], 'D': ['R', 'J', 'W', 'N', 'V'], 'G': ['S', 'D', 'E', 'N', 'Y', 'T', 'R', 'A', 'Z', 'X', 'O'], 'F': ['U'], 'I': ['M', 'W', 'B', 'F'], 'H': [], 'K': ['Q', 'F', 'C'], 'J': ['B', 'X', 'A', 'F', 'H', 'W', 'C', 'R', 'V'], 'M': ['B'], 'L': ['U', 'O', 'T'], 'O': ['B'], 'N': ['K', 'Q', 'W', 'H', 'P'], 'Q': ['F'], 'P': ['F', 'L'], 'S': ['H', 'K', 'X', 'V', 'W'], 'R': ['O', 'T', 'V', 'P'], 'U': [], 'T': [], 'W': ['L', 'B'], 'V': ['Z', 'P', 'U', 'C'], 'Y': ['I', 'A', 'V', 'J', 'F', 'H', 'B', 'R', 'M', 'W'], 'X': ['V', 'F', 'R', 'L'], 'Z': ['F', 'M']}
+t: 000, active: {'H': 68, 'B': 62, 'U': 81, 'T': 80}
+t: 001, active: {'H': 67, 'B': 61, 'U': 80, 'T': 79}
+t: 002, active: {'H': 66, 'B': 60, 'U': 79, 'T': 78}
+t: 003, active: {'H': 65, 'B': 59, 'U': 78, 'T': 77}
+t: 004, active: {'H': 64, 'B': 58, 'U': 77, 'T': 76}
+t: 005, active: {'H': 63, 'B': 57, 'U': 76, 'T': 75}
+t: 006, active: {'H': 62, 'B': 56, 'U': 75, 'T': 74}
+t: 007, active: {'H': 61, 'B': 55, 'U': 74, 'T': 73}
+t: 008, active: {'H': 60, 'B': 54, 'U': 73, 'T': 72}
+t: 009, active: {'H': 59, 'B': 53, 'U': 72, 'T': 71}
+t: 010, active: {'H': 58, 'B': 52, 'U': 71, 'T': 70}
+t: 011, active: {'H': 57, 'B': 51, 'U': 70, 'T': 69}
+t: 012, active: {'H': 56, 'B': 50, 'U': 69, 'T': 68}
+t: 013, active: {'H': 55, 'B': 49, 'U': 68, 'T': 67}
+t: 014, active: {'H': 54, 'B': 48, 'U': 67, 'T': 66}
+t: 015, active: {'H': 53, 'B': 47, 'U': 66, 'T': 65}
+t: 016, active: {'H': 52, 'B': 46, 'U': 65, 'T': 64}
+t: 017, active: {'H': 51, 'B': 45, 'U': 64, 'T': 63}
+t: 018, active: {'H': 50, 'B': 44, 'U': 63, 'T': 62}
+t: 019, active: {'H': 49, 'B': 43, 'U': 62, 'T': 61}
+t: 020, active: {'H': 48, 'B': 42, 'U': 61, 'T': 60}
+t: 021, active: {'H': 47, 'B': 41, 'U': 60, 'T': 59}
+t: 022, active: {'H': 46, 'B': 40, 'U': 59, 'T': 58}
+t: 023, active: {'H': 45, 'B': 39, 'U': 58, 'T': 57}
+t: 024, active: {'H': 44, 'B': 38, 'U': 57, 'T': 56}
+t: 025, active: {'H': 43, 'B': 37, 'U': 56, 'T': 55}
+t: 026, active: {'H': 42, 'B': 36, 'U': 55, 'T': 54}
+t: 027, active: {'H': 41, 'B': 35, 'U': 54, 'T': 53}
+t: 028, active: {'H': 40, 'B': 34, 'U': 53, 'T': 52}
+t: 029, active: {'H': 39, 'B': 33, 'U': 52, 'T': 51}
+t: 030, active: {'H': 38, 'B': 32, 'U': 51, 'T': 50}
+t: 031, active: {'H': 37, 'B': 31, 'U': 50, 'T': 49}
+t: 032, active: {'H': 36, 'B': 30, 'U': 49, 'T': 48}
+t: 033, active: {'H': 35, 'B': 29, 'U': 48, 'T': 47}
+t: 034, active: {'H': 34, 'B': 28, 'U': 47, 'T': 46}
+t: 035, active: {'H': 33, 'B': 27, 'U': 46, 'T': 45}
+t: 036, active: {'H': 32, 'B': 26, 'U': 45, 'T': 44}
+t: 037, active: {'H': 31, 'B': 25, 'U': 44, 'T': 43}
+t: 038, active: {'H': 30, 'B': 24, 'U': 43, 'T': 42}
+t: 039, active: {'H': 29, 'B': 23, 'U': 42, 'T': 41}
+t: 040, active: {'H': 28, 'B': 22, 'U': 41, 'T': 40}
+t: 041, active: {'H': 27, 'B': 21, 'U': 40, 'T': 39}
+t: 042, active: {'H': 26, 'B': 20, 'U': 39, 'T': 38}
+t: 043, active: {'H': 25, 'B': 19, 'U': 38, 'T': 37}
+t: 044, active: {'H': 24, 'B': 18, 'U': 37, 'T': 36}
+t: 045, active: {'H': 23, 'B': 17, 'U': 36, 'T': 35}
+t: 046, active: {'H': 22, 'B': 16, 'U': 35, 'T': 34}
+t: 047, active: {'H': 21, 'B': 15, 'U': 34, 'T': 33}
+t: 048, active: {'H': 20, 'B': 14, 'U': 33, 'T': 32}
+t: 049, active: {'H': 19, 'B': 13, 'U': 32, 'T': 31}
+t: 050, active: {'H': 18, 'B': 12, 'U': 31, 'T': 30}
+t: 051, active: {'H': 17, 'B': 11, 'U': 30, 'T': 29}
+t: 052, active: {'H': 16, 'B': 10, 'U': 29, 'T': 28}
+t: 053, active: {'H': 15, 'B': 9, 'U': 28, 'T': 27}
+t: 054, active: {'H': 14, 'B': 8, 'U': 27, 'T': 26}
+t: 055, active: {'H': 13, 'B': 7, 'U': 26, 'T': 25}
+t: 056, active: {'H': 12, 'B': 6, 'U': 25, 'T': 24}
+t: 057, active: {'H': 11, 'B': 5, 'U': 24, 'T': 23}
+t: 058, active: {'H': 10, 'B': 4, 'U': 23, 'T': 22}
+t: 059, active: {'H': 9, 'B': 3, 'U': 22, 'T': 21}
+t: 060, active: {'H': 8, 'B': 2, 'U': 21, 'T': 20}
+t: 061, active: {'H': 7, 'B': 1, 'U': 20, 'T': 19}
+t: 062, active: {'H': 6, 'M': 73, 'O': 75, 'U': 19, 'T': 18}
+t: 063, active: {'H': 5, 'M': 72, 'O': 74, 'U': 18, 'T': 17}
+t: 064, active: {'H': 4, 'M': 71, 'O': 73, 'U': 17, 'T': 16}
+t: 065, active: {'H': 3, 'M': 70, 'O': 72, 'U': 16, 'T': 15}
+t: 066, active: {'H': 2, 'M': 69, 'O': 71, 'U': 15, 'T': 14}
+t: 067, active: {'H': 1, 'M': 68, 'O': 70, 'U': 14, 'T': 13}
+t: 068, active: {'M': 67, 'O': 69, 'U': 13, 'T': 12}
+t: 069, active: {'M': 66, 'O': 68, 'U': 12, 'T': 11}
+t: 070, active: {'M': 65, 'O': 67, 'U': 11, 'T': 10}
+t: 071, active: {'M': 64, 'O': 66, 'U': 10, 'T': 9}
+t: 072, active: {'M': 63, 'O': 65, 'U': 9, 'T': 8}
+t: 073, active: {'M': 62, 'O': 64, 'U': 8, 'T': 7}
+t: 074, active: {'M': 61, 'O': 63, 'U': 7, 'T': 6}
+t: 075, active: {'M': 60, 'O': 62, 'U': 6, 'T': 5}
+t: 076, active: {'M': 59, 'O': 61, 'U': 5, 'T': 4}
+t: 077, active: {'M': 58, 'O': 60, 'U': 4, 'T': 3}
+t: 078, active: {'M': 57, 'O': 59, 'U': 3, 'T': 2}
+t: 079, active: {'M': 56, 'O': 58, 'U': 2, 'T': 1}
+t: 080, active: {'M': 55, 'O': 57, 'U': 1}
+t: 081, active: {'F': 66, 'M': 54, 'O': 56}
+t: 082, active: {'F': 65, 'M': 53, 'O': 55}
+t: 083, active: {'F': 64, 'M': 52, 'O': 54}
+t: 084, active: {'F': 63, 'M': 51, 'O': 53}
+t: 085, active: {'F': 62, 'M': 50, 'O': 52}
+t: 086, active: {'F': 61, 'M': 49, 'O': 51}
+t: 087, active: {'F': 60, 'M': 48, 'O': 50}
+t: 088, active: {'F': 59, 'M': 47, 'O': 49}
+t: 089, active: {'F': 58, 'M': 46, 'O': 48}
+t: 090, active: {'F': 57, 'M': 45, 'O': 47}
+t: 091, active: {'F': 56, 'M': 44, 'O': 46}
+t: 092, active: {'F': 55, 'M': 43, 'O': 45}
+t: 093, active: {'F': 54, 'M': 42, 'O': 44}
+t: 094, active: {'F': 53, 'M': 41, 'O': 43}
+t: 095, active: {'F': 52, 'M': 40, 'O': 42}
+t: 096, active: {'F': 51, 'M': 39, 'O': 41}
+t: 097, active: {'F': 50, 'M': 38, 'O': 40}
+t: 098, active: {'F': 49, 'M': 37, 'O': 39}
+t: 099, active: {'F': 48, 'M': 36, 'O': 38}
+t: 100, active: {'F': 47, 'M': 35, 'O': 37}
+t: 101, active: {'F': 46, 'M': 34, 'O': 36}
+t: 102, active: {'F': 45, 'M': 33, 'O': 35}
+t: 103, active: {'F': 44, 'M': 32, 'O': 34}
+t: 104, active: {'F': 43, 'M': 31, 'O': 33}
+t: 105, active: {'F': 42, 'M': 30, 'O': 32}
+t: 106, active: {'F': 41, 'M': 29, 'O': 31}
+t: 107, active: {'F': 40, 'M': 28, 'O': 30}
+t: 108, active: {'F': 39, 'M': 27, 'O': 29}
+t: 109, active: {'F': 38, 'M': 26, 'O': 28}
+t: 110, active: {'F': 37, 'M': 25, 'O': 27}
+t: 111, active: {'F': 36, 'M': 24, 'O': 26}
+t: 112, active: {'F': 35, 'M': 23, 'O': 25}
+t: 113, active: {'F': 34, 'M': 22, 'O': 24}
+t: 114, active: {'F': 33, 'M': 21, 'O': 23}
+t: 115, active: {'F': 32, 'M': 20, 'O': 22}
+t: 116, active: {'F': 31, 'M': 19, 'O': 21}
+t: 117, active: {'F': 30, 'M': 18, 'O': 20}
+t: 118, active: {'F': 29, 'M': 17, 'O': 19}
+t: 119, active: {'F': 28, 'M': 16, 'O': 18}
+t: 120, active: {'F': 27, 'M': 15, 'O': 17}
+t: 121, active: {'F': 26, 'M': 14, 'O': 16}
+t: 122, active: {'F': 25, 'M': 13, 'O': 15}
+t: 123, active: {'F': 24, 'M': 12, 'O': 14}
+t: 124, active: {'F': 23, 'M': 11, 'O': 13}
+t: 125, active: {'F': 22, 'M': 10, 'O': 12}
+t: 126, active: {'F': 21, 'M': 9, 'O': 11}
+t: 127, active: {'F': 20, 'M': 8, 'O': 10}
+t: 128, active: {'F': 19, 'M': 7, 'O': 9}
+t: 129, active: {'F': 18, 'M': 6, 'O': 8}
+t: 130, active: {'F': 17, 'M': 5, 'O': 7}
+t: 131, active: {'F': 16, 'M': 4, 'O': 6}
+t: 132, active: {'F': 15, 'M': 3, 'O': 5}
+t: 133, active: {'F': 14, 'M': 2, 'O': 4}
+t: 134, active: {'F': 13, 'M': 1, 'O': 3}
+t: 135, active: {'F': 12, 'O': 2}
+t: 136, active: {'F': 11, 'O': 1}
+t: 137, active: {'F': 10, 'L': 72}
+t: 138, active: {'F': 9, 'L': 71}
+t: 139, active: {'F': 8, 'L': 70}
+t: 140, active: {'F': 7, 'L': 69}
+t: 141, active: {'F': 6, 'L': 68}
+t: 142, active: {'F': 5, 'L': 67}
+t: 143, active: {'F': 4, 'L': 66}
+t: 144, active: {'F': 3, 'L': 65}
+t: 145, active: {'F': 2, 'L': 64}
+t: 146, active: {'F': 1, 'L': 63}
+t: 147, active: {'L': 62, 'Q': 77, 'Z': 86}
+t: 148, active: {'L': 61, 'Q': 76, 'Z': 85}
+t: 149, active: {'L': 60, 'Q': 75, 'Z': 84}
+t: 150, active: {'L': 59, 'Q': 74, 'Z': 83}
+t: 151, active: {'L': 58, 'Q': 73, 'Z': 82}
+t: 152, active: {'L': 57, 'Q': 72, 'Z': 81}
+t: 153, active: {'L': 56, 'Q': 71, 'Z': 80}
+t: 154, active: {'L': 55, 'Q': 70, 'Z': 79}
+t: 155, active: {'L': 54, 'Q': 69, 'Z': 78}
+t: 156, active: {'L': 53, 'Q': 68, 'Z': 77}
+t: 157, active: {'L': 52, 'Q': 67, 'Z': 76}
+t: 158, active: {'L': 51, 'Q': 66, 'Z': 75}
+t: 159, active: {'L': 50, 'Q': 65, 'Z': 74}
+t: 160, active: {'L': 49, 'Q': 64, 'Z': 73}
+t: 161, active: {'L': 48, 'Q': 63, 'Z': 72}
+t: 162, active: {'L': 47, 'Q': 62, 'Z': 71}
+t: 163, active: {'L': 46, 'Q': 61, 'Z': 70}
+t: 164, active: {'L': 45, 'Q': 60, 'Z': 69}
+t: 165, active: {'L': 44, 'Q': 59, 'Z': 68}
+t: 166, active: {'L': 43, 'Q': 58, 'Z': 67}
+t: 167, active: {'L': 42, 'Q': 57, 'Z': 66}
+t: 168, active: {'L': 41, 'Q': 56, 'Z': 65}
+t: 169, active: {'L': 40, 'Q': 55, 'Z': 64}
+t: 170, active: {'L': 39, 'Q': 54, 'Z': 63}
+t: 171, active: {'L': 38, 'Q': 53, 'Z': 62}
+t: 172, active: {'L': 37, 'Q': 52, 'Z': 61}
+t: 173, active: {'L': 36, 'Q': 51, 'Z': 60}
+t: 174, active: {'L': 35, 'Q': 50, 'Z': 59}
+t: 175, active: {'L': 34, 'Q': 49, 'Z': 58}
+t: 176, active: {'L': 33, 'Q': 48, 'Z': 57}
+t: 177, active: {'L': 32, 'Q': 47, 'Z': 56}
+t: 178, active: {'L': 31, 'Q': 46, 'Z': 55}
+t: 179, active: {'L': 30, 'Q': 45, 'Z': 54}
+t: 180, active: {'L': 29, 'Q': 44, 'Z': 53}
+t: 181, active: {'L': 28, 'Q': 43, 'Z': 52}
+t: 182, active: {'L': 27, 'Q': 42, 'Z': 51}
+t: 183, active: {'L': 26, 'Q': 41, 'Z': 50}
+t: 184, active: {'L': 25, 'Q': 40, 'Z': 49}
+t: 185, active: {'L': 24, 'Q': 39, 'Z': 48}
+t: 186, active: {'L': 23, 'Q': 38, 'Z': 47}
+t: 187, active: {'L': 22, 'Q': 37, 'Z': 46}
+t: 188, active: {'L': 21, 'Q': 36, 'Z': 45}
+t: 189, active: {'L': 20, 'Q': 35, 'Z': 44}
+t: 190, active: {'L': 19, 'Q': 34, 'Z': 43}
+t: 191, active: {'L': 18, 'Q': 33, 'Z': 42}
+t: 192, active: {'L': 17, 'Q': 32, 'Z': 41}
+t: 193, active: {'L': 16, 'Q': 31, 'Z': 40}
+t: 194, active: {'L': 15, 'Q': 30, 'Z': 39}
+t: 195, active: {'L': 14, 'Q': 29, 'Z': 38}
+t: 196, active: {'L': 13, 'Q': 28, 'Z': 37}
+t: 197, active: {'L': 12, 'Q': 27, 'Z': 36}
+t: 198, active: {'L': 11, 'Q': 26, 'Z': 35}
+t: 199, active: {'L': 10, 'Q': 25, 'Z': 34}
+t: 200, active: {'L': 9, 'Q': 24, 'Z': 33}
+t: 201, active: {'L': 8, 'Q': 23, 'Z': 32}
+t: 202, active: {'L': 7, 'Q': 22, 'Z': 31}
+t: 203, active: {'L': 6, 'Q': 21, 'Z': 30}
+t: 204, active: {'L': 5, 'Q': 20, 'Z': 29}
+t: 205, active: {'L': 4, 'Q': 19, 'Z': 28}
+t: 206, active: {'L': 3, 'Q': 18, 'Z': 27}
+t: 207, active: {'L': 2, 'Q': 17, 'Z': 26}
+t: 208, active: {'L': 1, 'Q': 16, 'Z': 25}
+t: 209, active: {'C': 63, 'Q': 15, 'P': 76, 'W': 83, 'Z': 24}
+t: 210, active: {'C': 62, 'Q': 14, 'P': 75, 'W': 82, 'Z': 23}
+t: 211, active: {'C': 61, 'Q': 13, 'P': 74, 'W': 81, 'Z': 22}
+t: 212, active: {'C': 60, 'Q': 12, 'P': 73, 'W': 80, 'Z': 21}
+t: 213, active: {'C': 59, 'Q': 11, 'P': 72, 'W': 79, 'Z': 20}
+t: 214, active: {'C': 58, 'Q': 10, 'P': 71, 'W': 78, 'Z': 19}
+t: 215, active: {'C': 57, 'Q': 9, 'P': 70, 'W': 77, 'Z': 18}
+t: 216, active: {'C': 56, 'Q': 8, 'P': 69, 'W': 76, 'Z': 17}
+t: 217, active: {'C': 55, 'Q': 7, 'P': 68, 'W': 75, 'Z': 16}
+t: 218, active: {'C': 54, 'Q': 6, 'P': 67, 'W': 74, 'Z': 15}
+t: 219, active: {'C': 53, 'Q': 5, 'P': 66, 'W': 73, 'Z': 14}
+t: 220, active: {'C': 52, 'Q': 4, 'P': 65, 'W': 72, 'Z': 13}
+t: 221, active: {'C': 51, 'Q': 3, 'P': 64, 'W': 71, 'Z': 12}
+t: 222, active: {'C': 50, 'Q': 2, 'P': 63, 'W': 70, 'Z': 11}
+t: 223, active: {'C': 49, 'Q': 1, 'P': 62, 'W': 69, 'Z': 10}
+t: 224, active: {'C': 48, 'P': 61, 'W': 68, 'Z': 9}
+t: 225, active: {'C': 47, 'P': 60, 'W': 67, 'Z': 8}
+t: 226, active: {'C': 46, 'P': 59, 'W': 66, 'Z': 7}
+t: 227, active: {'C': 45, 'P': 58, 'W': 65, 'Z': 6}
+t: 228, active: {'C': 44, 'P': 57, 'W': 64, 'Z': 5}
+t: 229, active: {'C': 43, 'P': 56, 'W': 63, 'Z': 4}
+t: 230, active: {'C': 42, 'P': 55, 'W': 62, 'Z': 3}
+t: 231, active: {'C': 41, 'P': 54, 'W': 61, 'Z': 2}
+t: 232, active: {'C': 40, 'P': 53, 'W': 60, 'Z': 1}
+t: 233, active: {'C': 39, 'P': 52, 'W': 59}
+t: 234, active: {'C': 38, 'P': 51, 'W': 58}
+t: 235, active: {'C': 37, 'P': 50, 'W': 57}
+t: 236, active: {'C': 36, 'P': 49, 'W': 56}
+t: 237, active: {'C': 35, 'P': 48, 'W': 55}
+t: 238, active: {'C': 34, 'P': 47, 'W': 54}
+t: 239, active: {'C': 33, 'P': 46, 'W': 53}
+t: 240, active: {'C': 32, 'P': 45, 'W': 52}
+t: 241, active: {'C': 31, 'P': 44, 'W': 51}
+t: 242, active: {'C': 30, 'P': 43, 'W': 50}
+t: 243, active: {'C': 29, 'P': 42, 'W': 49}
+t: 244, active: {'C': 28, 'P': 41, 'W': 48}
+t: 245, active: {'C': 27, 'P': 40, 'W': 47}
+t: 246, active: {'C': 26, 'P': 39, 'W': 46}
+t: 247, active: {'C': 25, 'P': 38, 'W': 45}
+t: 248, active: {'C': 24, 'P': 37, 'W': 44}
+t: 249, active: {'C': 23, 'P': 36, 'W': 43}
+t: 250, active: {'C': 22, 'P': 35, 'W': 42}
+t: 251, active: {'C': 21, 'P': 34, 'W': 41}
+t: 252, active: {'C': 20, 'P': 33, 'W': 40}
+t: 253, active: {'C': 19, 'P': 32, 'W': 39}
+t: 254, active: {'C': 18, 'P': 31, 'W': 38}
+t: 255, active: {'C': 17, 'P': 30, 'W': 37}
+t: 256, active: {'C': 16, 'P': 29, 'W': 36}
+t: 257, active: {'C': 15, 'P': 28, 'W': 35}
+t: 258, active: {'C': 14, 'P': 27, 'W': 34}
+t: 259, active: {'C': 13, 'P': 26, 'W': 33}
+t: 260, active: {'C': 12, 'P': 25, 'W': 32}
+t: 261, active: {'C': 11, 'P': 24, 'W': 31}
+t: 262, active: {'C': 10, 'P': 23, 'W': 30}
+t: 263, active: {'C': 9, 'P': 22, 'W': 29}
+t: 264, active: {'C': 8, 'P': 21, 'W': 28}
+t: 265, active: {'C': 7, 'P': 20, 'W': 27}
+t: 266, active: {'C': 6, 'P': 19, 'W': 26}
+t: 267, active: {'C': 5, 'P': 18, 'W': 25}
+t: 268, active: {'C': 4, 'P': 17, 'W': 24}
+t: 269, active: {'C': 3, 'P': 16, 'W': 23}
+t: 270, active: {'C': 2, 'P': 15, 'W': 22}
+t: 271, active: {'C': 1, 'P': 14, 'W': 21}
+t: 272, active: {'K': 71, 'P': 13, 'W': 20}
+t: 273, active: {'K': 70, 'P': 12, 'W': 19}
+t: 274, active: {'K': 69, 'P': 11, 'W': 18}
+t: 275, active: {'K': 68, 'P': 10, 'W': 17}
+t: 276, active: {'K': 67, 'P': 9, 'W': 16}
+t: 277, active: {'K': 66, 'P': 8, 'W': 15}
+t: 278, active: {'K': 65, 'P': 7, 'W': 14}
+t: 279, active: {'K': 64, 'P': 6, 'W': 13}
+t: 280, active: {'K': 63, 'P': 5, 'W': 12}
+t: 281, active: {'K': 62, 'P': 4, 'W': 11}
+t: 282, active: {'K': 61, 'P': 3, 'W': 10}
+t: 283, active: {'K': 60, 'P': 2, 'W': 9}
+t: 284, active: {'K': 59, 'P': 1, 'W': 8}
+t: 285, active: {'K': 58, 'W': 7, 'V': 82}
+t: 286, active: {'K': 57, 'W': 6, 'V': 81}
+t: 287, active: {'K': 56, 'W': 5, 'V': 80}
+t: 288, active: {'K': 55, 'W': 4, 'V': 79}
+t: 289, active: {'K': 54, 'W': 3, 'V': 78}
+t: 290, active: {'K': 53, 'W': 2, 'V': 77}
+t: 291, active: {'K': 52, 'W': 1, 'V': 76}
+t: 292, active: {'I': 69, 'K': 51, 'V': 75}
+t: 293, active: {'I': 68, 'K': 50, 'V': 74}
+t: 294, active: {'I': 67, 'K': 49, 'V': 73}
+t: 295, active: {'I': 66, 'K': 48, 'V': 72}
+t: 296, active: {'I': 65, 'K': 47, 'V': 71}
+t: 297, active: {'I': 64, 'K': 46, 'V': 70}
+t: 298, active: {'I': 63, 'K': 45, 'V': 69}
+t: 299, active: {'I': 62, 'K': 44, 'V': 68}
+t: 300, active: {'I': 61, 'K': 43, 'V': 67}
+t: 301, active: {'I': 60, 'K': 42, 'V': 66}
+t: 302, active: {'I': 59, 'K': 41, 'V': 65}
+t: 303, active: {'I': 58, 'K': 40, 'V': 64}
+t: 304, active: {'I': 57, 'K': 39, 'V': 63}
+t: 305, active: {'I': 56, 'K': 38, 'V': 62}
+t: 306, active: {'I': 55, 'K': 37, 'V': 61}
+t: 307, active: {'I': 54, 'K': 36, 'V': 60}
+t: 308, active: {'I': 53, 'K': 35, 'V': 59}
+t: 309, active: {'I': 52, 'K': 34, 'V': 58}
+t: 310, active: {'I': 51, 'K': 33, 'V': 57}
+t: 311, active: {'I': 50, 'K': 32, 'V': 56}
+t: 312, active: {'I': 49, 'K': 31, 'V': 55}
+t: 313, active: {'I': 48, 'K': 30, 'V': 54}
+t: 314, active: {'I': 47, 'K': 29, 'V': 53}
+t: 315, active: {'I': 46, 'K': 28, 'V': 52}
+t: 316, active: {'I': 45, 'K': 27, 'V': 51}
+t: 317, active: {'I': 44, 'K': 26, 'V': 50}
+t: 318, active: {'I': 43, 'K': 25, 'V': 49}
+t: 319, active: {'I': 42, 'K': 24, 'V': 48}
+t: 320, active: {'I': 41, 'K': 23, 'V': 47}
+t: 321, active: {'I': 40, 'K': 22, 'V': 46}
+t: 322, active: {'I': 39, 'K': 21, 'V': 45}
+t: 323, active: {'I': 38, 'K': 20, 'V': 44}
+t: 324, active: {'I': 37, 'K': 19, 'V': 43}
+t: 325, active: {'I': 36, 'K': 18, 'V': 42}
+t: 326, active: {'I': 35, 'K': 17, 'V': 41}
+t: 327, active: {'I': 34, 'K': 16, 'V': 40}
+t: 328, active: {'I': 33, 'K': 15, 'V': 39}
+t: 329, active: {'I': 32, 'K': 14, 'V': 38}
+t: 330, active: {'I': 31, 'K': 13, 'V': 37}
+t: 331, active: {'I': 30, 'K': 12, 'V': 36}
+t: 332, active: {'I': 29, 'K': 11, 'V': 35}
+t: 333, active: {'I': 28, 'K': 10, 'V': 34}
+t: 334, active: {'I': 27, 'K': 9, 'V': 33}
+t: 335, active: {'I': 26, 'K': 8, 'V': 32}
+t: 336, active: {'I': 25, 'K': 7, 'V': 31}
+t: 337, active: {'I': 24, 'K': 6, 'V': 30}
+t: 338, active: {'I': 23, 'K': 5, 'V': 29}
+t: 339, active: {'I': 22, 'K': 4, 'V': 28}
+t: 340, active: {'I': 21, 'K': 3, 'V': 27}
+t: 341, active: {'I': 20, 'K': 2, 'V': 26}
+t: 342, active: {'I': 19, 'K': 1, 'V': 25}
+t: 343, active: {'I': 18, 'N': 74, 'V': 24}
+t: 344, active: {'I': 17, 'N': 73, 'V': 23}
+t: 345, active: {'I': 16, 'N': 72, 'V': 22}
+t: 346, active: {'I': 15, 'N': 71, 'V': 21}
+t: 347, active: {'I': 14, 'N': 70, 'V': 20}
+t: 348, active: {'I': 13, 'N': 69, 'V': 19}
+t: 349, active: {'I': 12, 'N': 68, 'V': 18}
+t: 350, active: {'I': 11, 'N': 67, 'V': 17}
+t: 351, active: {'I': 10, 'N': 66, 'V': 16}
+t: 352, active: {'I': 9, 'N': 65, 'V': 15}
+t: 353, active: {'I': 8, 'N': 64, 'V': 14}
+t: 354, active: {'I': 7, 'N': 63, 'V': 13}
+t: 355, active: {'I': 6, 'N': 62, 'V': 12}
+t: 356, active: {'I': 5, 'N': 61, 'V': 11}
+t: 357, active: {'I': 4, 'N': 60, 'V': 10}
+t: 358, active: {'I': 3, 'N': 59, 'V': 9}
+t: 359, active: {'I': 2, 'N': 58, 'V': 8}
+t: 360, active: {'I': 1, 'N': 57, 'V': 7}
+t: 361, active: {'N': 56, 'V': 6}
+t: 362, active: {'N': 55, 'V': 5}
+t: 363, active: {'N': 54, 'V': 4}
+t: 364, active: {'N': 53, 'V': 3}
+t: 365, active: {'N': 52, 'V': 2}
+t: 366, active: {'N': 51, 'V': 1}
+t: 367, active: {'N': 50, 'R': 78}
+t: 368, active: {'N': 49, 'R': 77}
+t: 369, active: {'N': 48, 'R': 76}
+t: 370, active: {'N': 47, 'R': 75}
+t: 371, active: {'N': 46, 'R': 74}
+t: 372, active: {'N': 45, 'R': 73}
+t: 373, active: {'N': 44, 'R': 72}
+t: 374, active: {'N': 43, 'R': 71}
+t: 375, active: {'N': 42, 'R': 70}
+t: 376, active: {'N': 41, 'R': 69}
+t: 377, active: {'N': 40, 'R': 68}
+t: 378, active: {'N': 39, 'R': 67}
+t: 379, active: {'N': 38, 'R': 66}
+t: 380, active: {'N': 37, 'R': 65}
+t: 381, active: {'N': 36, 'R': 64}
+t: 382, active: {'N': 35, 'R': 63}
+t: 383, active: {'N': 34, 'R': 62}
+t: 384, active: {'N': 33, 'R': 61}
+t: 385, active: {'N': 32, 'R': 60}
+t: 386, active: {'N': 31, 'R': 59}
+t: 387, active: {'N': 30, 'R': 58}
+t: 388, active: {'N': 29, 'R': 57}
+t: 389, active: {'N': 28, 'R': 56}
+t: 390, active: {'N': 27, 'R': 55}
+t: 391, active: {'N': 26, 'R': 54}
+t: 392, active: {'N': 25, 'R': 53}
+t: 393, active: {'N': 24, 'R': 52}
+t: 394, active: {'N': 23, 'R': 51}
+t: 395, active: {'N': 22, 'R': 50}
+t: 396, active: {'N': 21, 'R': 49}
+t: 397, active: {'N': 20, 'R': 48}
+t: 398, active: {'N': 19, 'R': 47}
+t: 399, active: {'N': 18, 'R': 46}
+t: 400, active: {'N': 17, 'R': 45}
+t: 401, active: {'N': 16, 'R': 44}
+t: 402, active: {'N': 15, 'R': 43}
+t: 403, active: {'N': 14, 'R': 42}
+t: 404, active: {'N': 13, 'R': 41}
+t: 405, active: {'N': 12, 'R': 40}
+t: 406, active: {'N': 11, 'R': 39}
+t: 407, active: {'N': 10, 'R': 38}
+t: 408, active: {'N': 9, 'R': 37}
+t: 409, active: {'N': 8, 'R': 36}
+t: 410, active: {'N': 7, 'R': 35}
+t: 411, active: {'N': 6, 'R': 34}
+t: 412, active: {'N': 5, 'R': 33}
+t: 413, active: {'N': 4, 'R': 32}
+t: 414, active: {'N': 3, 'R': 31}
+t: 415, active: {'N': 2, 'R': 30}
+t: 416, active: {'N': 1, 'R': 29}
+t: 417, active: {'R': 28}
+t: 418, active: {'R': 27}
+t: 419, active: {'R': 26}
+t: 420, active: {'R': 25}
+t: 421, active: {'R': 24}
+t: 422, active: {'R': 23}
+t: 423, active: {'R': 22}
+t: 424, active: {'R': 21}
+t: 425, active: {'R': 20}
+t: 426, active: {'R': 19}
+t: 427, active: {'R': 18}
+t: 428, active: {'R': 17}
+t: 429, active: {'R': 16}
+t: 430, active: {'R': 15}
+t: 431, active: {'R': 14}
+t: 432, active: {'R': 13}
+t: 433, active: {'R': 12}
+t: 434, active: {'R': 11}
+t: 435, active: {'R': 10}
+t: 436, active: {'R': 9}
+t: 437, active: {'R': 8}
+t: 438, active: {'R': 7}
+t: 439, active: {'R': 6}
+t: 440, active: {'R': 5}
+t: 441, active: {'R': 4}
+t: 442, active: {'R': 3}
+t: 443, active: {'R': 2}
+t: 444, active: {'R': 1}
+t: 445, active: {'X': 84}
+t: 446, active: {'X': 83}
+t: 447, active: {'X': 82}
+t: 448, active: {'X': 81}
+t: 449, active: {'X': 80}
+t: 450, active: {'X': 79}
+t: 451, active: {'X': 78}
+t: 452, active: {'X': 77}
+t: 453, active: {'X': 76}
+t: 454, active: {'X': 75}
+t: 455, active: {'X': 74}
+t: 456, active: {'X': 73}
+t: 457, active: {'X': 72}
+t: 458, active: {'X': 71}
+t: 459, active: {'X': 70}
+t: 460, active: {'X': 69}
+t: 461, active: {'X': 68}
+t: 462, active: {'X': 67}
+t: 463, active: {'X': 66}
+t: 464, active: {'X': 65}
+t: 465, active: {'X': 64}
+t: 466, active: {'X': 63}
+t: 467, active: {'X': 62}
+t: 468, active: {'X': 61}
+t: 469, active: {'X': 60}
+t: 470, active: {'X': 59}
+t: 471, active: {'X': 58}
+t: 472, active: {'X': 57}
+t: 473, active: {'X': 56}
+t: 474, active: {'X': 55}
+t: 475, active: {'X': 54}
+t: 476, active: {'X': 53}
+t: 477, active: {'X': 52}
+t: 478, active: {'X': 51}
+t: 479, active: {'X': 50}
+t: 480, active: {'X': 49}
+t: 481, active: {'X': 48}
+t: 482, active: {'X': 47}
+t: 483, active: {'X': 46}
+t: 484, active: {'X': 45}
+t: 485, active: {'X': 44}
+t: 486, active: {'X': 43}
+t: 487, active: {'X': 42}
+t: 488, active: {'X': 41}
+t: 489, active: {'X': 40}
+t: 490, active: {'X': 39}
+t: 491, active: {'X': 38}
+t: 492, active: {'X': 37}
+t: 493, active: {'X': 36}
+t: 494, active: {'X': 35}
+t: 495, active: {'X': 34}
+t: 496, active: {'X': 33}
+t: 497, active: {'X': 32}
+t: 498, active: {'X': 31}
+t: 499, active: {'X': 30}
+t: 500, active: {'X': 29}
+t: 501, active: {'X': 28}
+t: 502, active: {'X': 27}
+t: 503, active: {'X': 26}
+t: 504, active: {'X': 25}
+t: 505, active: {'X': 24}
+t: 506, active: {'X': 23}
+t: 507, active: {'X': 22}
+t: 508, active: {'X': 21}
+t: 509, active: {'X': 20}
+t: 510, active: {'X': 19}
+t: 511, active: {'X': 18}
+t: 512, active: {'X': 17}
+t: 513, active: {'X': 16}
+t: 514, active: {'X': 15}
+t: 515, active: {'X': 14}
+t: 516, active: {'X': 13}
+t: 517, active: {'X': 12}
+t: 518, active: {'X': 11}
+t: 519, active: {'X': 10}
+t: 520, active: {'X': 9}
+t: 521, active: {'X': 8}
+t: 522, active: {'X': 7}
+t: 523, active: {'X': 6}
+t: 524, active: {'X': 5}
+t: 525, active: {'X': 4}
+t: 526, active: {'X': 3}
+t: 527, active: {'X': 2}
+t: 528, active: {'X': 1}
+t: 529, active: {'A': 61, 'S': 79}
+t: 530, active: {'A': 60, 'S': 78}
+t: 531, active: {'A': 59, 'S': 77}
+t: 532, active: {'A': 58, 'S': 76}
+t: 533, active: {'A': 57, 'S': 75}
+t: 534, active: {'A': 56, 'S': 74}
+t: 535, active: {'A': 55, 'S': 73}
+t: 536, active: {'A': 54, 'S': 72}
+t: 537, active: {'A': 53, 'S': 71}
+t: 538, active: {'A': 52, 'S': 70}
+t: 539, active: {'A': 51, 'S': 69}
+t: 540, active: {'A': 50, 'S': 68}
+t: 541, active: {'A': 49, 'S': 67}
+t: 542, active: {'A': 48, 'S': 66}
+t: 543, active: {'A': 47, 'S': 65}
+t: 544, active: {'A': 46, 'S': 64}
+t: 545, active: {'A': 45, 'S': 63}
+t: 546, active: {'A': 44, 'S': 62}
+t: 547, active: {'A': 43, 'S': 61}
+t: 548, active: {'A': 42, 'S': 60}
+t: 549, active: {'A': 41, 'S': 59}
+t: 550, active: {'A': 40, 'S': 58}
+t: 551, active: {'A': 39, 'S': 57}
+t: 552, active: {'A': 38, 'S': 56}
+t: 553, active: {'A': 37, 'S': 55}
+t: 554, active: {'A': 36, 'S': 54}
+t: 555, active: {'A': 35, 'S': 53}
+t: 556, active: {'A': 34, 'S': 52}
+t: 557, active: {'A': 33, 'S': 51}
+t: 558, active: {'A': 32, 'S': 50}
+t: 559, active: {'A': 31, 'S': 49}
+t: 560, active: {'A': 30, 'S': 48}
+t: 561, active: {'A': 29, 'S': 47}
+t: 562, active: {'A': 28, 'S': 46}
+t: 563, active: {'A': 27, 'S': 45}
+t: 564, active: {'A': 26, 'S': 44}
+t: 565, active: {'A': 25, 'S': 43}
+t: 566, active: {'A': 24, 'S': 42}
+t: 567, active: {'A': 23, 'S': 41}
+t: 568, active: {'A': 22, 'S': 40}
+t: 569, active: {'A': 21, 'S': 39}
+t: 570, active: {'A': 20, 'S': 38}
+t: 571, active: {'A': 19, 'S': 37}
+t: 572, active: {'A': 18, 'S': 36}
+t: 573, active: {'A': 17, 'S': 35}
+t: 574, active: {'A': 16, 'S': 34}
+t: 575, active: {'A': 15, 'S': 33}
+t: 576, active: {'A': 14, 'S': 32}
+t: 577, active: {'A': 13, 'S': 31}
+t: 578, active: {'A': 12, 'S': 30}
+t: 579, active: {'A': 11, 'S': 29}
+t: 580, active: {'A': 10, 'S': 28}
+t: 581, active: {'A': 9, 'S': 27}
+t: 582, active: {'A': 8, 'S': 26}
+t: 583, active: {'A': 7, 'S': 25}
+t: 584, active: {'A': 6, 'S': 24}
+t: 585, active: {'A': 5, 'S': 23}
+t: 586, active: {'A': 4, 'S': 22}
+t: 587, active: {'A': 3, 'S': 21}
+t: 588, active: {'A': 2, 'S': 20}
+t: 589, active: {'A': 1, 'S': 19}
+t: 590, active: {'J': 70, 'S': 18}
+t: 591, active: {'J': 69, 'S': 17}
+t: 592, active: {'J': 68, 'S': 16}
+t: 593, active: {'J': 67, 'S': 15}
+t: 594, active: {'J': 66, 'S': 14}
+t: 595, active: {'J': 65, 'S': 13}
+t: 596, active: {'J': 64, 'S': 12}
+t: 597, active: {'J': 63, 'S': 11}
+t: 598, active: {'J': 62, 'S': 10}
+t: 599, active: {'J': 61, 'S': 9}
+t: 600, active: {'J': 60, 'S': 8}
+t: 601, active: {'J': 59, 'S': 7}
+t: 602, active: {'J': 58, 'S': 6}
+t: 603, active: {'J': 57, 'S': 5}
+t: 604, active: {'J': 56, 'S': 4}
+t: 605, active: {'J': 55, 'S': 3}
+t: 606, active: {'J': 54, 'S': 2}
+t: 607, active: {'J': 53, 'S': 1}
+t: 608, active: {'J': 52}
+t: 609, active: {'J': 51}
+t: 610, active: {'J': 50}
+t: 611, active: {'J': 49}
+t: 612, active: {'J': 48}
+t: 613, active: {'J': 47}
+t: 614, active: {'J': 46}
+t: 615, active: {'J': 45}
+t: 616, active: {'J': 44}
+t: 617, active: {'J': 43}
+t: 618, active: {'J': 42}
+t: 619, active: {'J': 41}
+t: 620, active: {'J': 40}
+t: 621, active: {'J': 39}
+t: 622, active: {'J': 38}
+t: 623, active: {'J': 37}
+t: 624, active: {'J': 36}
+t: 625, active: {'J': 35}
+t: 626, active: {'J': 34}
+t: 627, active: {'J': 33}
+t: 628, active: {'J': 32}
+t: 629, active: {'J': 31}
+t: 630, active: {'J': 30}
+t: 631, active: {'J': 29}
+t: 632, active: {'J': 28}
+t: 633, active: {'J': 27}
+t: 634, active: {'J': 26}
+t: 635, active: {'J': 25}
+t: 636, active: {'J': 24}
+t: 637, active: {'J': 23}
+t: 638, active: {'J': 22}
+t: 639, active: {'J': 21}
+t: 640, active: {'J': 20}
+t: 641, active: {'J': 19}
+t: 642, active: {'J': 18}
+t: 643, active: {'J': 17}
+t: 644, active: {'J': 16}
+t: 645, active: {'J': 15}
+t: 646, active: {'J': 14}
+t: 647, active: {'J': 13}
+t: 648, active: {'J': 12}
+t: 649, active: {'J': 11}
+t: 650, active: {'J': 10}
+t: 651, active: {'J': 9}
+t: 652, active: {'J': 8}
+t: 653, active: {'J': 7}
+t: 654, active: {'J': 6}
+t: 655, active: {'J': 5}
+t: 656, active: {'J': 4}
+t: 657, active: {'J': 3}
+t: 658, active: {'J': 2}
+t: 659, active: {'J': 1}
+t: 660, active: {'Y': 85, 'D': 64}
+t: 661, active: {'Y': 84, 'D': 63}
+t: 662, active: {'Y': 83, 'D': 62}
+t: 663, active: {'Y': 82, 'D': 61}
+t: 664, active: {'Y': 81, 'D': 60}
+t: 665, active: {'Y': 80, 'D': 59}
+t: 666, active: {'Y': 79, 'D': 58}
+t: 667, active: {'Y': 78, 'D': 57}
+t: 668, active: {'Y': 77, 'D': 56}
+t: 669, active: {'Y': 76, 'D': 55}
+t: 670, active: {'Y': 75, 'D': 54}
+t: 671, active: {'Y': 74, 'D': 53}
+t: 672, active: {'Y': 73, 'D': 52}
+t: 673, active: {'Y': 72, 'D': 51}
+t: 674, active: {'Y': 71, 'D': 50}
+t: 675, active: {'Y': 70, 'D': 49}
+t: 676, active: {'Y': 69, 'D': 48}
+t: 677, active: {'Y': 68, 'D': 47}
+t: 678, active: {'Y': 67, 'D': 46}
+t: 679, active: {'Y': 66, 'D': 45}
+t: 680, active: {'Y': 65, 'D': 44}
+t: 681, active: {'Y': 64, 'D': 43}
+t: 682, active: {'Y': 63, 'D': 42}
+t: 683, active: {'Y': 62, 'D': 41}
+t: 684, active: {'Y': 61, 'D': 40}
+t: 685, active: {'Y': 60, 'D': 39}
+t: 686, active: {'Y': 59, 'D': 38}
+t: 687, active: {'Y': 58, 'D': 37}
+t: 688, active: {'Y': 57, 'D': 36}
+t: 689, active: {'Y': 56, 'D': 35}
+t: 690, active: {'Y': 55, 'D': 34}
+t: 691, active: {'Y': 54, 'D': 33}
+t: 692, active: {'Y': 53, 'D': 32}
+t: 693, active: {'Y': 52, 'D': 31}
+t: 694, active: {'Y': 51, 'D': 30}
+t: 695, active: {'Y': 50, 'D': 29}
+t: 696, active: {'Y': 49, 'D': 28}
+t: 697, active: {'Y': 48, 'D': 27}
+t: 698, active: {'Y': 47, 'D': 26}
+t: 699, active: {'Y': 46, 'D': 25}
+t: 700, active: {'Y': 45, 'D': 24}
+t: 701, active: {'Y': 44, 'D': 23}
+t: 702, active: {'Y': 43, 'D': 22}
+t: 703, active: {'Y': 42, 'D': 21}
+t: 704, active: {'Y': 41, 'D': 20}
+t: 705, active: {'Y': 40, 'D': 19}
+t: 706, active: {'Y': 39, 'D': 18}
+t: 707, active: {'Y': 38, 'D': 17}
+t: 708, active: {'Y': 37, 'D': 16}
+t: 709, active: {'Y': 36, 'D': 15}
+t: 710, active: {'Y': 35, 'D': 14}
+t: 711, active: {'Y': 34, 'D': 13}
+t: 712, active: {'Y': 33, 'D': 12}
+t: 713, active: {'Y': 32, 'D': 11}
+t: 714, active: {'Y': 31, 'D': 10}
+t: 715, active: {'Y': 30, 'D': 9}
+t: 716, active: {'Y': 29, 'D': 8}
+t: 717, active: {'Y': 28, 'D': 7}
+t: 718, active: {'Y': 27, 'D': 6}
+t: 719, active: {'Y': 26, 'D': 5}
+t: 720, active: {'Y': 25, 'D': 4}
+t: 721, active: {'Y': 24, 'D': 3}
+t: 722, active: {'Y': 23, 'D': 2}
+t: 723, active: {'Y': 22, 'D': 1}
+t: 724, active: {'Y': 21}
+t: 725, active: {'Y': 20}
+t: 726, active: {'Y': 19}
+t: 727, active: {'Y': 18}
+t: 728, active: {'Y': 17}
+t: 729, active: {'Y': 16}
+t: 730, active: {'Y': 15}
+t: 731, active: {'Y': 14}
+t: 732, active: {'Y': 13}
+t: 733, active: {'Y': 12}
+t: 734, active: {'Y': 11}
+t: 735, active: {'Y': 10}
+t: 736, active: {'Y': 9}
+t: 737, active: {'Y': 8}
+t: 738, active: {'Y': 7}
+t: 739, active: {'Y': 6}
+t: 740, active: {'Y': 5}
+t: 741, active: {'Y': 4}
+t: 742, active: {'Y': 3}
+t: 743, active: {'Y': 2}
+t: 744, active: {'Y': 1}
+t: 745, active: {'E': 65}
+t: 746, active: {'E': 64}
+t: 747, active: {'E': 63}
+t: 748, active: {'E': 62}
+t: 749, active: {'E': 61}
+t: 750, active: {'E': 60}
+t: 751, active: {'E': 59}
+t: 752, active: {'E': 58}
+t: 753, active: {'E': 57}
+t: 754, active: {'E': 56}
+t: 755, active: {'E': 55}
+t: 756, active: {'E': 54}
+t: 757, active: {'E': 53}
+t: 758, active: {'E': 52}
+t: 759, active: {'E': 51}
+t: 760, active: {'E': 50}
+t: 761, active: {'E': 49}
+t: 762, active: {'E': 48}
+t: 763, active: {'E': 47}
+t: 764, active: {'E': 46}
+t: 765, active: {'E': 45}
+t: 766, active: {'E': 44}
+t: 767, active: {'E': 43}
+t: 768, active: {'E': 42}
+t: 769, active: {'E': 41}
+t: 770, active: {'E': 40}
+t: 771, active: {'E': 39}
+t: 772, active: {'E': 38}
+t: 773, active: {'E': 37}
+t: 774, active: {'E': 36}
+t: 775, active: {'E': 35}
+t: 776, active: {'E': 34}
+t: 777, active: {'E': 33}
+t: 778, active: {'E': 32}
+t: 779, active: {'E': 31}
+t: 780, active: {'E': 30}
+t: 781, active: {'E': 29}
+t: 782, active: {'E': 28}
+t: 783, active: {'E': 27}
+t: 784, active: {'E': 26}
+t: 785, active: {'E': 25}
+t: 786, active: {'E': 24}
+t: 787, active: {'E': 23}
+t: 788, active: {'E': 22}
+t: 789, active: {'E': 21}
+t: 790, active: {'E': 20}
+t: 791, active: {'E': 19}
+t: 792, active: {'E': 18}
+t: 793, active: {'E': 17}
+t: 794, active: {'E': 16}
+t: 795, active: {'E': 15}
+t: 796, active: {'E': 14}
+t: 797, active: {'E': 13}
+t: 798, active: {'E': 12}
+t: 799, active: {'E': 11}
+t: 800, active: {'E': 10}
+t: 801, active: {'E': 9}
+t: 802, active: {'E': 8}
+t: 803, active: {'E': 7}
+t: 804, active: {'E': 6}
+t: 805, active: {'E': 5}
+t: 806, active: {'E': 4}
+t: 807, active: {'E': 3}
+t: 808, active: {'E': 2}
+t: 809, active: {'E': 1}
+t: 810, active: {'G': 67}
+t: 811, active: {'G': 66}
+t: 812, active: {'G': 65}
+t: 813, active: {'G': 64}
+t: 814, active: {'G': 63}
+t: 815, active: {'G': 62}
+t: 816, active: {'G': 61}
+t: 817, active: {'G': 60}
+t: 818, active: {'G': 59}
+t: 819, active: {'G': 58}
+t: 820, active: {'G': 57}
+t: 821, active: {'G': 56}
+t: 822, active: {'G': 55}
+t: 823, active: {'G': 54}
+t: 824, active: {'G': 53}
+t: 825, active: {'G': 52}
+t: 826, active: {'G': 51}
+t: 827, active: {'G': 50}
+t: 828, active: {'G': 49}
+t: 829, active: {'G': 48}
+t: 830, active: {'G': 47}
+t: 831, active: {'G': 46}
+t: 832, active: {'G': 45}
+t: 833, active: {'G': 44}
+t: 834, active: {'G': 43}
+t: 835, active: {'G': 42}
+t: 836, active: {'G': 41}
+t: 837, active: {'G': 40}
+t: 838, active: {'G': 39}
+t: 839, active: {'G': 38}
+t: 840, active: {'G': 37}
+t: 841, active: {'G': 36}
+t: 842, active: {'G': 35}
+t: 843, active: {'G': 34}
+t: 844, active: {'G': 33}
+t: 845, active: {'G': 32}
+t: 846, active: {'G': 31}
+t: 847, active: {'G': 30}
+t: 848, active: {'G': 29}
+t: 849, active: {'G': 28}
+t: 850, active: {'G': 27}
+t: 851, active: {'G': 26}
+t: 852, active: {'G': 25}
+t: 853, active: {'G': 24}
+t: 854, active: {'G': 23}
+t: 855, active: {'G': 22}
+t: 856, active: {'G': 21}
+t: 857, active: {'G': 20}
+t: 858, active: {'G': 19}
+t: 859, active: {'G': 18}
+t: 860, active: {'G': 17}
+t: 861, active: {'G': 16}
+t: 862, active: {'G': 15}
+t: 863, active: {'G': 14}
+t: 864, active: {'G': 13}
+t: 865, active: {'G': 12}
+t: 866, active: {'G': 11}
+t: 867, active: {'G': 10}
+t: 868, active: {'G': 9}
+t: 869, active: {'G': 8}
+t: 870, active: {'G': 7}
+t: 871, active: {'G': 6}
+t: 872, active: {'G': 5}
+t: 873, active: {'G': 4}
+t: 874, active: {'G': 3}
+t: 875, active: {'G': 2}
+t: 876, active: {'G': 1}
+t: 877, active: {}
+877
